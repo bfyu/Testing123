@@ -1,1 +1,2 @@
-doing some text int his to see what happens
+doing some text int his to see what happens.
+more stuff added. Including a period in the previously line.
